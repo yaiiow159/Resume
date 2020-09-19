@@ -1,2 +1,2 @@
 # Resume
- the resume for practice
+https://yaiiow159.github.io/Resume/resume.html
